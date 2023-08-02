@@ -15,3 +15,19 @@ Tech:
 
 
 [View the App](https://app-stoic.netlify.app/)https://app-stoic.netlify.app/)
+
+
+--- 
+
+
+### How to run?
+
+Clone the project and install the dependencies
+```shell
+$ npm install || yarn
+```
+
+Run the code with the following command
+```shell
+yarn start || npm start
+```
